@@ -1,0 +1,4 @@
+This distribution, EXCEPT the files contained in the 'external' directory,
+are released under the MIT license.  A copy may be obtained at
+
+http://opensource.org/licenses/MIT

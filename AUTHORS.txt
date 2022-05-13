@@ -1,0 +1,8 @@
+Maxwell D. Collins (mcollins@cs.wisc.edu): Primary author and contact
+Jia Xu (jiaxu@cs.wisc.edu)
+Vikas Singh (vsingh@biostat.wisc.edu)
+
+This work is funded via grants NIH R01 AG040396 and NSF RI 1116584. Partial support was provided by UW-ICTR and Wisconsin ADRC. Collins was supported by a CIBM fellowship (NLM 5T15LM007359).
+
+For more information see the paper:
+  Jia Xu, Maxwell D. Collins, and Vikas Singh. Incorporating Topological Constraints within Interactive Segmentation and Contour Completion via Discrete Calculus. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), June 2013.

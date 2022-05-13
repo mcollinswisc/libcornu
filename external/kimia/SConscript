@@ -1,0 +1,9 @@
+Import('env')
+
+objs = env.Object('BiArc', 'BiArc.cc')
+objs += env.Object('euler', 'euler.cc')
+
+
+env.Program('testEuler', ['testEuler.cc'] + objs)
+
+Return('objs')
